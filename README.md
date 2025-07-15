@@ -35,7 +35,7 @@ Sistema web desenvolvido para gerenciamento de imóveis com interface intuitiva 
 ### 📷 Screenshots
 
 > *Início*  
-> `![Página de Início](caminho/para/imagem.png)`
+> [Página de Início](https://raw.githubusercontent.com/giovannadequi4/real-estate-project/main/imagem-1.jpeg)
 
 ### 📫 Contato
 
