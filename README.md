@@ -13,7 +13,7 @@
 
 ### 📌 Descrição
 
-Sistema web desenvolvido para gerenciamento de imóveis com interface intuitiva e responsiva, funcionalidades robustas e autenticação de usuários. Utiliza tecnologias modernas como **PHP**, **JavaScript**, **Bootstrap** e **MySQL** para entregar uma experiência completa de administração imobiliária.
+Sistema web desenvolvido para gerenciamento de imóveis com interface intuitiva e responsiva, funcionalidades robustas e autenticação de usuários. Utiliza tecnologias como **PHP**, **JavaScript**, **Bootstrap** e **MySQL** para entregar uma experiência completa de administração imobiliária.
 
 ### 🚀 Funcionalidades
 
