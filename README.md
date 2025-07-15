@@ -65,7 +65,7 @@ Web system developed for real estate management, featuring an intuitive and resp
 - 📱 Responsive design using Bootstrap
 - 📊 Full property management
 
-### 🛠️ Technologies Used
+### 🛠️ Technologies
 
 | Frontend      | Backend | Database | Others         |
 |---------------|---------|----------|----------------|
