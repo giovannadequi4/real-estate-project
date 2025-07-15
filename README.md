@@ -38,5 +38,5 @@ Sistema web desenvolvido para gerenciamento de imóveis com interface intuitiva 
 
 ## 📫 Contato
 Desenvolvido por Giovanna D. Brocker
-🔗 LinkedIn
+🔗 [LinkedIn](https://www.linkedin.com/in/giovanna-dequi)
 📧 giovanna.dequi@gmail.com
